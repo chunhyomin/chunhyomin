@@ -19,12 +19,12 @@ Studing
 
 
 
-<img src="https://img.shields.io/badge/C-1E8CBE?style=social&logo=C&logoColor=White"/>
-<img src="https://img.shields.io/badge/C++-1E8CBE?style=social&logo=cplusplus&logoColor=White"/>
+<img src="https://img.shields.io/badge/C-1E8CBE?style=for-the-badge&logo=C&logoColor=White"/>
+<img src="https://img.shields.io/badge/C++-1E8CBE?style=for-the-badge&logo=cplusplus&logoColor=White"/>
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=JavaScript&logoColor=Black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=Black"/>
   </a>
 </span>
 </div>
