@@ -22,7 +22,7 @@ Studing
 <img src="https://img.shields.io/badge/Instagram-#F7DF1E?style=plastic&logo=Instagram&logoColor=#F7DF1E"/>
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/c-#A8B9CC?style=plastic&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-#A8B9CC?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 
