@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-Studing
+## Studing
 
   <br>  
 
