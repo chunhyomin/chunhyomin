@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Studing
 </div>
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=JavaSript&logoColor=#F7DF1E"/></a>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=JavaSript&logoColor=#F7DF1E"/>
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
