@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Studing
 </div>
 
+
 <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=JavaSript&logoColor=#F7DF1E"/>
 <span>
   <a href="">
@@ -29,7 +30,7 @@ Studing
 
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 
