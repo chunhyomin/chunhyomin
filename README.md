@@ -19,8 +19,8 @@ Studing
 </div>
 
 
-<img src="https://img.shields.io/badge/C-F7DF1E?style=plastic&logo=C&logoColor=#1E8CBE"/>
-<img src="https://img.shields.io/badge/cplusplus-F7DF1E?style=plastic&logo=C++&logoColor=#1E8CBE"/>
+<img src="https://img.shields.io/badge/C-1E8CBE?style=plastic&logo=C&logoColor=#1E8CBE"/>
+<img src="https://img.shields.io/badge/cplusplus-1E8CBE?style=plastic&logo=cplusplus&logoColor=#1E8CBE"/>
 
 <span>
   <a href="">
