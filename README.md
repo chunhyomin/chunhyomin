@@ -19,10 +19,10 @@ Studing
 </div>
 
 
-<img src="https://img.shields.io/badge/c-F7DF1E?style=plastic&logo=Instagram&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/C-F7DF1E?style=plastic&logo=C&logoColor=#F7DF1E"/>
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=Black"/>
   </a>
 </span>
 
