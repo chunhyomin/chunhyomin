@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 Studing
-</div>
+
 
 
 <img src="https://img.shields.io/badge/C-1E8CBE?style=plastic&logo=C&logoColor=White"/>
@@ -24,10 +24,10 @@ Studing
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=Black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=Black"/>
   </a>
 </span>
-
+</div>
 
 
 <span>
