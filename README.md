@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Studing
 </div>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-#F7DF1E?style=plastic&logo=JavasSript&logoColor=#F7DF1E"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=JavaSript&logoColor=#F7DF1E"/></a>
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
