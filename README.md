@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 -->
 
-- I developed the 20th Yecheon Asian U20 Athletics Championships web page during my internship. 
+- I developed the 20th Yecheon Asian U20 Athletics Championships Web page during my internship. 
 - I am studying about an Engineer Information Security
 
 <!--
@@ -62,9 +62,25 @@ Here are some ideas to get you started:
   * <a>2022년 12월3일 국립안동대학교 "2022년 SW중심대학 간 협력 및 교류 증진을 위한 학부생 연구 성과 공동 발표 대회"우수상, 문제은행 시스템 웹, Be팀</a><br>
 
 
+
+ [![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunhyomin)](https://github.com/chunhyomin/github-readme-stats)
+
+ [![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunhyomin&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/chunhyomin/github-readme-stats)
+
+ <!--
+ ##깃허브에 자료 업로드하고 주석 풀기
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunhyomin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunhyomin)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <a><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunhyomin&layout=compact&theme=nord&hide_border=true" /></a> 
+
+ -->
+ 
+<!--![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?chunhyomin=anuraghazra&show_icons=true)
+-->
+
 <div align="left">
-
-
   
 </div>
 
