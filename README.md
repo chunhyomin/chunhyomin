@@ -1,17 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=👋Welcome+to+hyomin's+GitHub!👋)](https://git.io/typing-svg)
+
+##
+
 <!--
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80&section=header&text=응애&fontSize=80" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-## Welcome to hyom github 👋
-####
+-->
 
 - I developed the 20th Yecheon Asian U20 Athletics Championships web page during my internship. 
 - I am studying about an Engineer Information Security
@@ -47,8 +41,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-
-
 </div>
 
 
@@ -71,6 +63,7 @@ Here are some ideas to get you started:
   
   * <a>2022년 12월3일 국립안동대학교 "2022년 SW중심대학 간 협력 및 교류 증진을 위한 학부생 연구 성과 공동 발표 대회"우수상, 문제은행 시스템 웹, Be팀</a><br>
 
+  * <a>한국멀티미디어학회 주최 학부생 논문 경진대회 "공정한 온라인 경진대회를 위한 모니터링 시스템의 구현과 시험" 수상</a>
 
 <div align="left">
 
