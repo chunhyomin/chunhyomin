@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 ## ✨Undergraduate Student Antecedents
 #### 
-
+<!--
+자료 업로드하고 하이퍼링크 추가 해야됌
+-->
   * <a>2020년 11월21일 국립안동대학교&대구가톨릭대학교 "제2회 전국 고등학생 사이버 경진대회" 관리 팀</a><br>
 
   * <a>2021년 8월21일 국립안동대학교&대구가톨릭대학교 "제3회 전국 고등학생 사이버 경진대회" 관리 팀</a><br>
@@ -55,17 +57,21 @@ Here are some ideas to get you started:
   
   * <a>2022년 6월22일~6월24일 "2022년 SW 중심대학 공동해커톤" 출전, 안전한 비밀번호 제공 및 관리 웹 개발 프로젝트 - 보안 거북이 팀</a><br>
 
-  * <a>2022년 7월16일 안동시 전통문화콘텐츠박물관에서 진행한 Unity를 활용한 제1기 콘텐츠개발학교 교육과정 참여</a><br>
+  * <a>2022년 7월16일 안동시 전통문화콘텐츠박물관에서 진행한 Unity 제1기 콘텐츠개발학교 교육과정 이수</a><br>
   
   * <a>2022년 11월19일 국립안동대학교 "2022년 웹개발 해커톤 대회" 우수상, business.card 웹, 우개소 팀</a><br>
   
   * <a>2022년 12월3일 국립안동대학교 "2022년 SW중심대학 간 협력 및 교류 증진을 위한 학부생 연구 성과 공동 발표 대회"우수상, 문제은행 시스템 웹, Be팀</a><br>
 
-
+##
 
  [![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunhyomin)](https://github.com/chunhyomin/github-readme-stats)
 
- [![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunhyomin&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/chunhyomin/github-readme-stats)
+ <!--
+ [![chunhyomin's GitHub stats](http s://github-readme-stats.vercel.app/api?username=chunhyomin&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/chunhyomin/github-readme-stats)
+ -->
+
+
 
  <!--
  ##깃허브에 자료 업로드하고 주석 풀기
@@ -80,14 +86,3 @@ Here are some ideas to get you started:
 <!--![chunhyomin's GitHub stats](https://github-readme-stats.vercel.app/api?chunhyomin=anuraghazra&show_icons=true)
 -->
 
-<div align="left">
-  
-</div>
-
-<!--
-<span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
--->
